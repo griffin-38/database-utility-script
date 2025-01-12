@@ -1,7 +1,3 @@
-Below is a sample **README.md** file you can include in your repository. Adjust any details to suit your specific needs and environment.
-
----
-
 # DB Reset Script
 
 This repository contains two Bash scripts for resetting a specified database environment. The scripts assume a PostgreSQL setup, but you can modify the logic for other database systems.
